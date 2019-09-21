@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://xeegahbio.tappin.co.uk/sitemap.xml
